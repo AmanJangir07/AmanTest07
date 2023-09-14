@@ -1,4 +1,4 @@
-package com.shopiana.shopiana
+package com.shopiana.default
 
 import io.flutter.embedding.android.FlutterActivity
 
